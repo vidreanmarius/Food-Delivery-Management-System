@@ -1,0 +1,9 @@
+You order is:
+Client name: laura
+Products bought: 
+Fresh Corn Tortillas 
+Smoked Caviar and Hummus on Pita Toasts 
+Spicy Pickled Shallots 
+Fresh Corn Tortillas 
+Beef Stock 
+Total price is: 341.0
